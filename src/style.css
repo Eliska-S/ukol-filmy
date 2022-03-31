@@ -6,6 +6,7 @@
 
 html {
   font-family: 'Open Sans', sans-serif;
+  background-color: gainsboro;
 }
 
 .logo {
@@ -13,4 +14,15 @@ html {
   width: auto;
   height: 1em;
   margin-right: 0.3em;
+}
+
+header{
+  text-align: center;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  list-style-type: none;
 }
